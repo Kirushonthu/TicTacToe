@@ -39,7 +39,7 @@ Player X, choose a position (1-9): 5
 ## 🛠️ How to Run
 1. Clone this repository:
    ```bash
-   git clone https://github.com/your-username/TicTacToe-Java.git
+   git clone https://github.com/Kirushonthu/TicTacToe-Java.git
    cd TicTacToe-Java
 ``
 
